@@ -3,7 +3,7 @@
 **electricblues/electricblues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-## Hi there, I'm Emanuela  
+## Hi there, I'm Emma 
 ### 🩺 From Nursing to 💻 Web Development
 
 Thanks for visiting my GitHub profile!👋  
